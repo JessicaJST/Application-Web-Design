@@ -25,5 +25,3 @@ Markdown permite:
 - Insertar enlaces y imagenes.
 - Estructurar el contenido con encabezados.
 - Y mucho mas.
-
-
